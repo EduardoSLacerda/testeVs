@@ -4,7 +4,7 @@
  *
  * Data: 08/03/2018
  * 
- * 	"Um Pub solicitou o desenvolvimento de um
+ * 	"2 Pub solicitou o desenvolvimento de um
  *	sistema para auxiliar no sorteio de chopp para
  *	os clientes que estejam no estabelecimento."
  *
